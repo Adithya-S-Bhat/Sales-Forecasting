@@ -1,7 +1,7 @@
 # Sales-Analysis-Using-ML
 
-1st Method used in project.py:  
-Using SARIMAX
+1. project.py:  
+Uses SARIMAX
 
-2nd MEthod used in salesann.py:
-Using Artificial Neural Networks
+2. salesann.py:
+Uses Artificial Neural Networks(CNN)
