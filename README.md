@@ -1,7 +1,8 @@
 # Sales-Analysis-Using-ML
 
 Sales forecasting is the process of estimating future sales. Accurate sales forecasts enable companies to make informed business decisions and predict short-term and long-term performance. 
-This project uses two Machine Learning models to predict sales. One model predicts sales using Artificial Neural Network and the other one is SARIMAX. The reppective files are as follows:
+This project uses two Machine Learning models to predict sales. One model predicts sales using Artificial Neural Network and the other one is SARIMAX.  
+The respective files are as follows:
 1. project.py -> SARIMA
 
 2. salesann.py -> Artificial Neural Network
